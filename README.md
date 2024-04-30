@@ -38,4 +38,6 @@ npx playwright test --ui
 
 ## Testes
 
-Atualmente, este projeto contém um teste implementado no arquivo [geracao-caldeira.spec.ts](e2e/geracao-caldeira.spec.ts):
+Atualmente, este projeto contém testes implementados no arquivo [geracao-caldeira.spec.ts](e2e/geracao-caldeira.spec.ts).
+<br>
+Você pode encontrar cada teste e sua respectiva função [clicando aqui](https://github.com/eduardofettermann/playwright-test/blob/main/tests.md)
